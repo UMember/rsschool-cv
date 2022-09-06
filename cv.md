@@ -9,6 +9,7 @@
 ### __About Me__:
 ```
 Most of the time I developed solutions for myself or friends (as hobby).  
+Developed web panels, stores, landing pages and telegram bots.  
 I think that these skills are not enough and decided to "pump" my knowledge.
 ```
 ---
