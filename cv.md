@@ -14,14 +14,15 @@ I think that these skills are not enough and decided to "pump" my knowledge.
 ```
 ---
 ### __Skills__:
-|   | __Type__                | __Description__                        |   |
-|---|-------------------------|----------------------------------------|---|
-|   | __Frontend__            | `HTML`, `CSS`, `Javascript`            |   |
-|   | __Backend__             | `Javascript`, `PHP`, `MySQL`           |   |
-|   | __Advanced__            | `ES6`, `Webpack`, `babel`, `mongodb`   |   |
-|   | __Frameworks__          | `React`, `Laravel`                     |   |
-|   | __Tools__               | `Git`, `Photostop`                     |   |
-|   | __Workspace__           | `VS Code`, `Sublime Text`, `Atom`      |   |
+| __Type__                | __Description__                        |
+|-------------------------|----------------------------------------|
+| __Frontend__            | `HTML`, `CSS`, `Javascript`            |
+| __Backend__             | `Javascript`, `PHP`, `MySQL`           |
+| __Advanced__            | `ES6`, `Webpack`, `babel`, `mongodb`   |
+| __Frameworks__          | `React`, `Laravel`                     |
+| __Tools__               | `Git`, `Photostop`                     |
+| __Workspace__           | `VS Code`, `Sublime Text`, `Atom`      |
+{: .tablelines}
 ---
 ### __Code examples__:
 #### [1. String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
@@ -32,7 +33,7 @@ const solution = (str, ending) => {
 ```
 ##### One line solution: 
 ```Javascript
-const solution = (str, ending) => { str.endsWith(ending) ? true : false }
+const solution = (str, ending) => str.endsWith(ending) ? true : false
 ```
 #### [2. Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 ```Javascript
@@ -67,3 +68,11 @@ const countBits = (n) => Number(n).toString(2).split(1).length - 1
 ### __Languages__
 * English: pre intermediate
 * Russian: native
+
+<style>
+.tablelines table, 
+.tablelines td, 
+.tablelines th {
+  border: 1px solid black;
+}
+</style>
