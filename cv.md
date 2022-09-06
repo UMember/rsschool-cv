@@ -1,7 +1,7 @@
 # __Hello__, i'm Viktor K.
 # ![Avatar](https://avatars.githubusercontent.com/u/43033265)
 ### __Contacts__:
-#### 
+
 * __Github__:   [Umember](https://github.com/UMember)
 * __Telegram__: [@sweexus](https://t.me/sweexus)
 * __Discord__:  [sweexus#0150](https://discord.com/users/214828014247215104)
@@ -14,20 +14,20 @@ I think that these skills are not enough and decided to "pump" my knowledge.
 ```
 ---
 ### __Skills__:
-| __Type__              | __Description__                      |
-|----------------------:|:-------------------------------------|
-| __Frontend__          | `HTML`, `CSS`, `Javascript`          |
-| __Backend__           | `Javascript`, `PHP`, `MySQL`         |
-| __Advanced__          | `ES6`, `Webpack`, `babel`, `mongodb` |
-| __Frameworks__        | `React`, `Laravel`                   |
-| __Tools__             | `Git`, `Photostop`                   |
-| __Workspace__         | `VS Code`, `Sublime Text`, `Atom`    |
+|   | __Type__                | __Description__                        |   |
+|---|-------------------------|----------------------------------------|---|
+|   | __Frontend__            | `HTML`, `CSS`, `Javascript`            |   |
+|   | __Backend__             | `Javascript`, `PHP`, `MySQL`           |   |
+|   | __Advanced__            | `ES6`, `Webpack`, `babel`, `mongodb`   |   |
+|   | __Frameworks__          | `React`, `Laravel`                     |   |
+|   | __Tools__               | `Git`, `Photostop`                     |   |
+|   | __Workspace__           | `VS Code`, `Sublime Text`, `Atom`      |   |
 ---
 ### __Code examples__:
 #### [1. String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 ```Javascript
 const solution = (str, ending) => {
-  return str.endsWith(ending) ? true : false
+    return str.endsWith(ending) ? true : false
 }
 ```
 ##### One line solution: 
@@ -37,8 +37,8 @@ const solution = (str, ending) => { str.endsWith(ending) ? true : false }
 #### [2. Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 ```Javascript
 const countBits = (n) => {
-  let convert = Number(n).toString(2)
-  let count = convert.split(1).length - 1
+    let convert = Number(n).toString(2)
+    let count = convert.split(1).length - 1
   return count
 }
 ```
