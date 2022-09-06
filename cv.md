@@ -52,12 +52,15 @@ const countBits = (n) => Number(n).toString(2).split(1).length - 1
 ### __Projects__
 #### Perfect World project administrator:
 * Setup server and protection (Ubuntu / iptables / cron / backups)
-* Create website and panel. [preview](https://drive.google.com/file/d/145XyAUkFNSgvdtTuaQITb7hF-Wjv5gpy/view) / [sources on request]
+* Create website and panel. [preview](https://drive.google.com/file/d/145XyAUkFNSgvdtTuaQITb7hF-Wjv5gpy/view) / sources on request
 * Development of game solutions and events (UI, quests, events, items, etc)
 * Work with community (in-game, IPB forum, VK)
+
 #### Landing page (React) + telegram bot
-* [Website](https://zhannet-nail.ru/) / [sources on request]
-* [Telegram bot](https://t.me/zhannet_nail_bot) / [private source]
+
+* [Website](https://zhannet-nail.ru/) / sources on request
+* [Telegram bot](https://t.me/zhannet_nail_bot) / private source
+
 ---
 ### __Education__
 * [learn.javascript.ru](https://learn.javascript.ru)
