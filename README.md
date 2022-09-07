@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv task
+https://umember.github.io/rsschool-cv/
