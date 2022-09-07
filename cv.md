@@ -3,7 +3,6 @@
 ### __Contacts__:
 
 * __Github__:   [Umember](https://github.com/UMember)
-* __Telegram__: [@sweexus](https://t.me/sweexus)
 * __Discord__:  [sweexus#0150](https://discord.com/users/214828014247215104)
 * __E-mail__:   [sweex65@gmail.com](mailto:sweex65@gmail.com)
 ### __About Me__:
